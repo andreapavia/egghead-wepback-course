@@ -1,0 +1,11 @@
+{
+  "name": "webpack-egghead",
+  "version": "1.0.0",
+  "description": "egghead course about webpack and modern tooling with reactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
