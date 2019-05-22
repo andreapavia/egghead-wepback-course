@@ -17,6 +17,11 @@ module.exports = {
                     presets:['@babel/preset-env', '@babel/preset-react'],
                     plugins: ['@babel/plugin-proposal-class-properties']
                 }
+            },
+            {
+                test: /\.scss$/,
+                use: ['style-loader', 'css-loader', 'sass-loader'],
+                exclude: /node_modules/
             }
         ]
     },
