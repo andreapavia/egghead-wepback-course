@@ -24,6 +24,7 @@
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
     "webpack": "^4.31.0",
+    "webpack-bundle-analyzer": "^3.3.2",
     "webpack-cli": "^3.3.2",
     "webpack-dev-server": "^3.4.1",
     "webpack-merge": "^4.2.1"
@@ -31,5 +32,6 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-hot-loader": "^4.8.7"  }
+    "react-hot-loader": "^4.8.7"
+  }
 }
